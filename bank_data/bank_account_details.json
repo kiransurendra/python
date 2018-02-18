@@ -1,0 +1,41 @@
+{
+   "DGBN000021111": {
+      "created_on": "02-02-2018", 
+      "date_of_birth": "02-04-15", 
+      "account_type": "current", 
+      "mobile_number": "df", 
+      "aadhar_number": "fgh", 
+      "gender": "male", 
+      "account_holder_name": "cfghj", 
+      "address": "fg"
+   }, 
+   "DGBN000092646": {
+      "account_type": "salary", 
+      "aadhar_number": "74185963963", 
+      "gender": "male", 
+      "account_holder_name": "kiran surendra jaddu", 
+      "created_on": "03-01-2018", 
+      "date_of_birth": "30-07-1994", 
+      "mobile_number": "9603048784", 
+      "address": "SRNAGAR"
+   }, 
+   "DGBN00000921": {
+      "account_type": "saving", 
+      "aadhar_number": 124124412, 
+      "gender": "male", 
+      "account_holder_name": "surrender", 
+      "date_of_birth": "30-07-1994", 
+      "mobile_number": 9603048784, 
+      "address": "SRNAGAR"
+   }, 
+   "DGBN000020545": {
+      "account_type": "savings", 
+      "aadhar_number": "741852963", 
+      "gender": "male", 
+      "account_holder_name": "surendra", 
+      "created_on": "03-01-2018", 
+      "date_of_birth": "30-07-1994", 
+      "mobile_number": "9603048784", 
+      "address": "SRNAGAR"
+   }
+}
